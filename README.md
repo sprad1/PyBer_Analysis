@@ -12,5 +12,7 @@ Figure 1. Summary DataFrame
 
 ![Pyber_fare_summary](https://user-images.githubusercontent.com/86751774/128652202-f79ff012-b374-4acd-b67a-d72c7b2b7a89.png)
 Figure 2. Multiple-line Chart 
+    
+   #### As displayed by Figure 1 and Figure 2, there are more rides in Urban cities than Rural or Suburban. The number of drivers are also significantly more in Urban cities than in Rural or Suburban cities which accounts for the high amount of fares in Urban cities. However, as there are less number of rides and drivers in Rural and Suburban cities, the average fare per ride and average fare per driver are greater compared to Urban cities. 
 
 ### Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
