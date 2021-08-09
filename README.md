@@ -1,10 +1,10 @@
 # PyBer_Analysis
 
-### Overview: Explain the purpose of the new analysis.
+### Overview:
    The purpose of the project was to perform an explanatory analysis on PyBer ride-sharing data and creating visualizations that will help PyBer, a Python based ride-sharing app company, improve access to ride-shraing services and determine affordability for underserved neighborhoods.   
 
 
-### Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
+### Results: 
 
 ![Screen Shot 2021-08-08 at 8 22 16 PM](https://user-images.githubusercontent.com/86751774/128652132-6911c145-b31a-4748-b482-068bc34bb1fe.png)
 
@@ -16,4 +16,4 @@ Figure 2. Multiple-line Chart
    As displayed by Figure 1 and Figure 2, there are more rides in Urban cities than Rural or Suburban. The number of drivers are also significantly more in Urban cities than in Rural or Suburban cities which accounts for the high amount of fares in Urban cities. However, as there are less number of rides and drivers in Rural and Suburban cities, the average fare per ride and average fare per driver are greater compared to Urban cities. 
    
    
-### Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+### Summary: 
