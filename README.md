@@ -17,3 +17,4 @@ Figure 2. Multiple-line Chart
    
    
 ### Summary: 
+   Based on the analysis, some business recommendations to the CEO for addressing any disparities among the city types would be to increase the amount of drivers in Rural areas so that the demand for drivers are met and so that the revenue also increases, charge more per mile in Urban cities so that the average fare per driver is greater than current.  
