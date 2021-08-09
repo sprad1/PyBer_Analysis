@@ -6,6 +6,8 @@
 
 ### Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 
+![Screen Shot 2021-08-08 at 8 22 16 PM](https://user-images.githubusercontent.com/86751774/128652132-6911c145-b31a-4748-b482-068bc34bb1fe.png)
+
 
 
 ### Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
